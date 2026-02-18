@@ -1,4 +1,4 @@
-# Bitcoin Block Alert
+# Bitcoin Block Alert 🔔⚡️
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-BTC-orange)
 ![Alerts](https://img.shields.io/badge/Alerts-Sound%20%2B%20Telegram-2CA5E0)
