@@ -1,4 +1,9 @@
 # Bitcoin Block Alert
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-BTC-orange)
+![Alerts](https://img.shields.io/badge/Alerts-Sound%20%2B%20Telegram-2CA5E0)
+![Type](https://img.shields.io/badge/Type-Monitoring-purple)
+![API](https://img.shields.io/badge/API-REST-grey)
 
 Bitcoin block monitoring bot built with Python.
 Alerts user when a specified block height is mined.
